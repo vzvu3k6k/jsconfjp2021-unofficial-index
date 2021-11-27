@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
 import ErrorPage from "next/error";
-import talks from "../../_talks/data.json";
+import { getTalkById, getAllTalks } from "../../lib/talks";
 
 export default function Talk({ talk }) {
   const router = useRouter();
@@ -37,7 +37,7 @@ export async function getStaticProps({ params }) {
     b: "5H3Sswp5qYg",
     c: "Rmvt9Gt0VMk",
   };
-  const talk = talks.find((t) => t.id === params.id);
+  const talk = getTalkById(params.id);
   return {
     props: {
       talk: {
@@ -50,7 +50,7 @@ export async function getStaticProps({ params }) {
 
 export async function getStaticPaths() {
   return {
-    paths: talks.map((t) => {
+    paths: getAllTalks().map((t) => {
       return {
         params: {
           id: t.id,
