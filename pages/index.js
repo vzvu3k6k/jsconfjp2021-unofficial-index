@@ -37,6 +37,13 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
+          href="https://github.com/vzvu3k6k/jsconfjp2021-unofficial-index"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GitHub
+        </a>
+        <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
