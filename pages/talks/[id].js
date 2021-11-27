@@ -32,20 +32,8 @@ export default function Talk({ talk }) {
 }
 
 export async function getStaticProps({ params }) {
-  const videoIds = {
-    a: "fC4oZJmvfI0",
-    b: "5H3Sswp5qYg",
-    c: "Rmvt9Gt0VMk",
-  };
   const talk = getTalkById(params.id);
-  return {
-    props: {
-      talk: {
-        ...talk,
-        videoId: videoIds[talk.track],
-      },
-    },
-  };
+  return { props: { talk } };
 }
 
 export async function getStaticPaths() {
