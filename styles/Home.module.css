@@ -90,6 +90,15 @@
   margin-left: 0.5rem;
 }
 
+.references {
+  text-align: center;
+}
+
+.references ul {
+  padding: 0;
+  list-style: none;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

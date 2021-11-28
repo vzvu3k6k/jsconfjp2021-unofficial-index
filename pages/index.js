@@ -33,6 +33,20 @@ export default function Home() {
             return <Talk key={t.id} id={t.id} title={t.title} />;
           })}
         </div>
+
+        <section className={styles.references}>
+          <h2>References</h2>
+          <ul>
+            <li>
+              <a
+                title="JSConf 2021 資料まとめ - 果樹園"
+                href="https://mstssk.hatenablog.com/entry/2021/11/27/210333"
+              >
+                JSConf 2021 資料まとめ - 果樹園
+              </a>
+            </li>
+          </ul>
+        </section>
       </main>
 
       <footer className={styles.footer}>
