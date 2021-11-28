@@ -15,9 +15,7 @@ export default function Talk({ talk }) {
       </nav>
       <main>
         <h1>{talk.title}</h1>
-        {talk.hasPermalink && (
-          <a href={`https://jsconf.jp/2021/talk/${talk.id}`}>トークページ</a>
-        )}
+        {talk.permalink && <a href={talk.permalink}>トークページ</a>}
         <br />
         <iframe
           type="text/html"

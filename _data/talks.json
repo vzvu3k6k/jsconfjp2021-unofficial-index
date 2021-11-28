@@ -2,133 +2,130 @@
   {
     "title": "Opening by Yosuke Furukawa",
     "id": "opening",
-    "hasPermalink": false,
     "track": "a",
     "videoStartsAt": 630
   },
   {
     "title": "JavaScript エコシステムを維持する OSS の努力と課題 by Sosuke Suzuki",
     "id": "javascript-maintaining-ecosystem-oss-struggles-and-challenges",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 1295
+    "videoStartsAt": 1295,
+    "permalink": "https://jsconf.jp/2021/talk/javascript-maintaining-ecosystem-oss-struggles-and-challenges"
   },
   {
     "title": "Asynchronicity, the right way: Understanding the basics of asynchronous JavaScript, when to and when not to use it. by Julien Hora",
     "id": "asynchronicity-the-right-way-understanding-the-basics-of-asynchronous-javascript-when-to-and-when-not-to-use-it",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 3631
+    "videoStartsAt": 3631,
+    "permalink": "https://jsconf.jp/2021/talk/asynchronicity-the-right-way-understanding-the-basics-of-asynchronous-javascript-when-to-and-when-not-to-use-it"
   },
   {
     "title": "The 2021 edition of dealing with files on the Web by Thomas Steiner",
     "id": "the-2021-edition-of-dealing-with-files-on-the-web",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 5169
+    "videoStartsAt": 5169,
+    "permalink": "https://jsconf.jp/2021/talk/the-2021-edition-of-dealing-with-files-on-the-web"
   },
   {
     "title": "Web ベースのカジュアルゲーム「Block Pong」の実装とビジネス by 紀平 拓男 (Takuo Kihira)",
     "id": "implementation-and-business-of-block-pong-a-web-based-casual-game",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 7891
+    "videoStartsAt": 7891,
+    "permalink": "https://jsconf.jp/2021/talk/implementation-and-business-of-block-pong-a-web-based-casual-game"
   },
   {
     "title": "Deno の これまで と これからby 日野澤歓也",
     "id": "the-past-and-future-of-deno",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 9730
+    "videoStartsAt": 9730,
+    "permalink": "https://jsconf.jp/2021/talk/the-past-and-future-of-deno"
   },
   {
     "title": "状態管理ライブラリについて by Daishi Kato",
     "id": "about-the-state-management-library",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 12045
+    "videoStartsAt": 12045,
+    "permalink": "https://jsconf.jp/2021/talk/about-the-state-management-library"
   },
   {
     "title": "Cookie等によるトラッキング規制と代替APIの最新情報まとめ by Antoine Bourlon",
     "id": "summary-of-the-latest-information-on-tracking-restrictions-and-alternative-api-by-cookies-etc",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 14055
+    "videoStartsAt": 14055,
+    "permalink": "https://jsconf.jp/2021/talk/summary-of-the-latest-information-on-tracking-restrictions-and-alternative-api-by-cookies-etc"
   },
   {
     "title": "アクセシブルなフロントエンド開発のこれまでとこれから by Okuto Oyama",
     "id": "the-past-and-future-of-accessible-front-end-development",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 16240
+    "videoStartsAt": 16240,
+    "permalink": "https://jsconf.jp/2021/talk/the-past-and-future-of-accessible-front-end-development"
   },
   {
     "title": "Machine Learning with JS by Asiya",
     "id": "machine-learning-with-js",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 18685
+    "videoStartsAt": 18685,
+    "permalink": "https://jsconf.jp/2021/talk/machine-learning-with-js"
   },
   {
     "title": "関数型プログラミングのデザインパターンひとめぐり with Ramda.js by Kazuyuki TAKASE (@Guvalif)",
     "id": "a-tour-of-design-patterns-for-functional-programming-with-ramdajs",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 19293
+    "videoStartsAt": 19293,
+    "permalink": "https://jsconf.jp/2021/talk/a-tour-of-design-patterns-for-functional-programming-with-ramdajs"
   },
   {
     "title": "組織フェーズを見据えたWebフロントエンドのアーキテクチャと変遷 by Tetsuya Shibutani",
     "id": "web-front-end-architecture-and-transition-with-an-eye-on-organizational-phases",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 19915
+    "videoStartsAt": 19915,
+    "permalink": "https://jsconf.jp/2021/talk/web-front-end-architecture-and-transition-with-an-eye-on-organizational-phases"
   },
   {
     "title": "Bundle Size Optimization in Future JavaScript by Yuku Kotani",
     "id": "bundle-size-optimization-in-future-javascript",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 20561
+    "videoStartsAt": 20561,
+    "permalink": "https://jsconf.jp/2021/talk/bundle-size-optimization-in-future-javascript"
   },
   {
     "title": "加速するEdge Computing by しにゃい/Shinyaigeek",
     "id": "accelerating-edge-computing",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 21159
+    "videoStartsAt": 21159,
+    "permalink": "https://jsconf.jp/2021/talk/accelerating-edge-computing"
   },
   {
     "title": "Building markdown editor using Rust's parser by Hiroyuki Yagihashi",
     "id": "building-markdown-editor-using-rusts-parser",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 21786
+    "videoStartsAt": 21786,
+    "permalink": "https://jsconf.jp/2021/talk/building-markdown-editor-using-rusts-parser"
   },
   {
     "title": "State of CSS 2021 Survey Results by Sacha Greif",
     "id": "state-of-css-2021-survey-results",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 22327
+    "videoStartsAt": 22327,
+    "permalink": "https://jsconf.jp/2021/talk/state-of-css-2021-survey-results"
   },
   {
     "title": "Sponsors LT",
     "id": "sponsors-lt",
-    "hasPermalink": false,
     "track": "a",
     "videoStartsAt": 23437
   },
   {
     "title": "How projects are born and run in a web browser engine by Kinuko Yasuda",
     "id": "how-projects-are-born-and-run-in-a-web-browser-engine",
-    "hasPermalink": true,
     "track": "a",
-    "videoStartsAt": 26135
+    "videoStartsAt": 26135,
+    "permalink": "https://jsconf.jp/2021/talk/how-projects-are-born-and-run-in-a-web-browser-engine"
   },
   {
     "title": "Ending by Yosuke Furukawa",
     "id": "ending",
-    "hasPermalink": false,
     "track": "a",
     "videoStartsAt": 28005
   },
@@ -136,90 +133,84 @@
     "title": "Webフロントエンドのリプレースを支えるテストの考え方 by berlysia",
     "id": "testing-approach-to-support-web-front-end-replacement",
     "track": "b",
-    "hasPermalink": true,
-    "videoStartsAt": 1122
+    "videoStartsAt": 1122,
+    "permalink": "https://jsconf.jp/2021/talk/testing-approach-to-support-web-front-end-replacement"
   },
   {
     "title": "Universal DevTools for all environments by Kohei Ueno",
     "id": "universal-devtools-for-all-environments",
     "track": "b",
-    "hasPermalink": true,
-    "videoStartsAt": 3374
+    "videoStartsAt": 3374,
+    "permalink": "https://jsconf.jp/2021/talk/universal-devtools-for-all-environments"
   },
   {
     "title": "JavaScript(TypeScript)だけでメディアサイトをインフラから構築する方法 by Hidetaka Okamoto",
     "id": "how-to-build-a-media-site-from-the-infrastructure-up-using-only-java-script-type-script",
     "track": "b",
-    "hasPermalink": true,
-    "videoStartsAt": 5789
+    "videoStartsAt": 5789,
+    "permalink": "https://jsconf.jp/2021/talk/how-to-build-a-media-site-from-the-infrastructure-up-using-only-java-script-type-script"
   },
   {
     "title": "AMP キャッシュを超えるシステムを自社ドメインで実現する方法 by 可児 潤也",
     "id": "how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain",
-    "hasPermalink": true,
     "track": "b",
-    "videoStartsAt": 7653
+    "videoStartsAt": 7653,
+    "permalink": "https://jsconf.jp/2021/talk/how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain"
   },
   {
     "title": "Static Site Generator is a Compiler by Yuta Ide",
     "id": "static-site-generator-is-a-compiler",
-    "hasPermalink": true,
     "track": "b",
-    "videoStartsAt": 10016
+    "videoStartsAt": 10016,
+    "permalink": "https://jsconf.jp/2021/talk/static-site-generator-is-a-compiler"
   },
   {
     "title": "GraphQL と Prisma から考える次のN年を見据えた技術選定 by 森 久太郎 / qsona",
     "id": "technology-selection-for-the-next-n-years-based-on-graphql-and-prisma",
-    "hasPermalink": true,
     "track": "b",
-    "videoStartsAt": 11943
+    "videoStartsAt": 11943,
+    "permalink": "https://jsconf.jp/2021/talk/technology-selection-for-the-next-n-years-based-on-graphql-and-prisma"
   },
   {
     "title": "モバイルブラウザにおけるClient-side MLアプリケーションのプロダクション開発事例 by 加藤 倫弘 / Tomohiro Kato",
     "id": "case-study-of-production-development-of-a-client-side-ml-application-in-a-mobile-browser",
-    "hasPermalink": true,
     "track": "b",
-    "videoStartsAt": 14193
+    "videoStartsAt": 14193,
+    "permalink": "https://jsconf.jp/2021/talk/case-study-of-production-development-of-a-client-side-ml-application-in-a-mobile-browser"
   },
   {
     "title": "6年間成長し続けてきたモノリシックサービスにおけるフロントエンド開発 by カオナビ (Yuuki Minami)",
     "id": "sponsor-kaonavi",
-    "hasPermalink": false,
     "track": "c",
     "videoStartsAt": 4828
   },
   {
     "title": "5分でできる生産性改善 〜ESLint Custom Rule を作ろう〜 by Wantedly (原剛士、小林直樹)",
     "id": "sponsor-wantedly",
-    "hasPermalink": false,
     "track": "c",
     "videoStartsAt": 7240
   },
   {
     "title": "Open API Specificationを使ったTwilio APIテスト用モッキングサーバーの構築 by Twillio (Daizen Ikehara)",
     "id": "sponsor-twilio",
-    "hasPermalink": false,
     "track": "c",
     "videoStartsAt": 9004
   },
   {
     "title": "STORES 予約を支えるフロントエンドの技術 by Hey (岩本 卓朗)",
     "id": "sponsor-hey",
-    "hasPermalink": false,
     "track": "c",
     "videoStartsAt": 11454
   },
   {
     "title": "Helpfeel小咄2選 Web WorkerとMutationObserver by Nota",
     "id": "sponsor-nota",
-    "hasPermalink": false,
     "track": "c",
     "videoStartsAt": 13225
   },
   {
     "title": "Next.js でリアーキテクトした話 by リクルート (吉井健文)",
     "id": "sponsor-recruit",
-    "hasPermalink": false,
     "track": "c",
     "videoStartsAt": 15631
   }
