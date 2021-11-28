@@ -10,7 +10,8 @@
     "id": "javascript-maintaining-ecosystem-oss-struggles-and-challenges",
     "track": "a",
     "videoStartsAt": 1295,
-    "permalink": "https://jsconf.jp/2021/talk/javascript-maintaining-ecosystem-oss-struggles-and-challenges"
+    "permalink": "https://jsconf.jp/2021/talk/javascript-maintaining-ecosystem-oss-struggles-and-challenges",
+    "slides": "https://speakerdeck.com/sosukesuzuki/javascript-ekosisutemuwowei-chi-suru-oss-falsenu-li-toke-ti"
   },
   {
     "title": "Asynchronicity, the right way: Understanding the basics of asynchronous JavaScript, when to and when not to use it. by Julien Hora",
@@ -31,14 +32,16 @@
     "id": "implementation-and-business-of-block-pong-a-web-based-casual-game",
     "track": "a",
     "videoStartsAt": 7891,
-    "permalink": "https://jsconf.jp/2021/talk/implementation-and-business-of-block-pong-a-web-based-casual-game"
+    "permalink": "https://jsconf.jp/2021/talk/implementation-and-business-of-block-pong-a-web-based-casual-game",
+    "slides": "https://www.slideshare.net/t-kihira/web-block-pong"
   },
   {
     "title": "Deno の これまで と これからby 日野澤歓也",
     "id": "the-past-and-future-of-deno",
     "track": "a",
     "videoStartsAt": 9730,
-    "permalink": "https://jsconf.jp/2021/talk/the-past-and-future-of-deno"
+    "permalink": "https://jsconf.jp/2021/talk/the-past-and-future-of-deno",
+    "slides": "https://kt3k.github.io/talk_jsconfjp2021/"
   },
   {
     "title": "状態管理ライブラリについて by Daishi Kato",
@@ -59,7 +62,8 @@
     "id": "the-past-and-future-of-accessible-front-end-development",
     "track": "a",
     "videoStartsAt": 16240,
-    "permalink": "https://jsconf.jp/2021/talk/the-past-and-future-of-accessible-front-end-development"
+    "permalink": "https://jsconf.jp/2021/talk/the-past-and-future-of-accessible-front-end-development",
+    "slides": "https://speakerdeck.com/yamanoku/the-past-and-future-of-accessible-front-end-development"
   },
   {
     "title": "Machine Learning with JS by Asiya",
@@ -73,28 +77,32 @@
     "id": "a-tour-of-design-patterns-for-functional-programming-with-ramdajs",
     "track": "a",
     "videoStartsAt": 19293,
-    "permalink": "https://jsconf.jp/2021/talk/a-tour-of-design-patterns-for-functional-programming-with-ramdajs"
+    "permalink": "https://jsconf.jp/2021/talk/a-tour-of-design-patterns-for-functional-programming-with-ramdajs",
+    "slides": "https://www.slideshare.net/100005930379759/ss-250735852"
   },
   {
     "title": "組織フェーズを見据えたWebフロントエンドのアーキテクチャと変遷 by Tetsuya Shibutani",
     "id": "web-front-end-architecture-and-transition-with-an-eye-on-organizational-phases",
     "track": "a",
     "videoStartsAt": 19915,
-    "permalink": "https://jsconf.jp/2021/talk/web-front-end-architecture-and-transition-with-an-eye-on-organizational-phases"
+    "permalink": "https://jsconf.jp/2021/talk/web-front-end-architecture-and-transition-with-an-eye-on-organizational-phases",
+    "slides": "https://speakerdeck.com/shibe23/zu-zhi-huesuwojian-ju-etawebhurontoentofalseakitekutiyatobian-qian"
   },
   {
     "title": "Bundle Size Optimization in Future JavaScript by Yuku Kotani",
     "id": "bundle-size-optimization-in-future-javascript",
     "track": "a",
     "videoStartsAt": 20561,
-    "permalink": "https://jsconf.jp/2021/talk/bundle-size-optimization-in-future-javascript"
+    "permalink": "https://jsconf.jp/2021/talk/bundle-size-optimization-in-future-javascript",
+    "slides": "https://speakerdeck.com/yukukotani/bundle-side-optimization-in-future-javascript-jsconf-jp-2021"
   },
   {
     "title": "加速するEdge Computing by しにゃい/Shinyaigeek",
     "id": "accelerating-edge-computing",
     "track": "a",
     "videoStartsAt": 21159,
-    "permalink": "https://jsconf.jp/2021/talk/accelerating-edge-computing"
+    "permalink": "https://jsconf.jp/2021/talk/accelerating-edge-computing",
+    "slides": "https://speakerdeck.com/shinyaigeek/jia-su-suruedge-computing"
   },
   {
     "title": "Building markdown editor using Rust's parser by Hiroyuki Yagihashi",
@@ -134,28 +142,32 @@
     "id": "testing-approach-to-support-web-front-end-replacement",
     "track": "b",
     "videoStartsAt": 1122,
-    "permalink": "https://jsconf.jp/2021/talk/testing-approach-to-support-web-front-end-replacement"
+    "permalink": "https://jsconf.jp/2021/talk/testing-approach-to-support-web-front-end-replacement",
+    "slides": "https://speakerdeck.com/berlysia/jsconf-jp-2021"
   },
   {
     "title": "Universal DevTools for all environments by Kohei Ueno",
     "id": "universal-devtools-for-all-environments",
     "track": "b",
     "videoStartsAt": 3374,
-    "permalink": "https://jsconf.jp/2021/talk/universal-devtools-for-all-environments"
+    "permalink": "https://jsconf.jp/2021/talk/universal-devtools-for-all-environments",
+    "slides": "https://speakerdeck.com/cola119/universal-devtools-for-all-environments"
   },
   {
     "title": "JavaScript(TypeScript)だけでメディアサイトをインフラから構築する方法 by Hidetaka Okamoto",
     "id": "how-to-build-a-media-site-from-the-infrastructure-up-using-only-java-script-type-script",
     "track": "b",
     "videoStartsAt": 5789,
-    "permalink": "https://jsconf.jp/2021/talk/how-to-build-a-media-site-from-the-infrastructure-up-using-only-java-script-type-script"
+    "permalink": "https://jsconf.jp/2021/talk/how-to-build-a-media-site-from-the-infrastructure-up-using-only-java-script-type-script",
+    "slides": "https://speakerdeck.com/hideokamoto/jsconf-jp-2021"
   },
   {
     "title": "AMP キャッシュを超えるシステムを自社ドメインで実現する方法 by 可児 潤也",
     "id": "how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain",
     "track": "b",
     "videoStartsAt": 7653,
-    "permalink": "https://jsconf.jp/2021/talk/how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain"
+    "permalink": "https://jsconf.jp/2021/talk/how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain",
+    "slides": "https://speakerdeck.com/ka2jun8/how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain"
   },
   {
     "title": "Static Site Generator is a Compiler by Yuta Ide",
@@ -169,14 +181,16 @@
     "id": "technology-selection-for-the-next-n-years-based-on-graphql-and-prisma",
     "track": "b",
     "videoStartsAt": 11943,
-    "permalink": "https://jsconf.jp/2021/talk/technology-selection-for-the-next-n-years-based-on-graphql-and-prisma"
+    "permalink": "https://jsconf.jp/2021/talk/technology-selection-for-the-next-n-years-based-on-graphql-and-prisma",
+    "slides": "https://speakerdeck.com/qsona/architecture-decision-for-the-next-n-years-at-studysapuri"
   },
   {
     "title": "モバイルブラウザにおけるClient-side MLアプリケーションのプロダクション開発事例 by 加藤 倫弘 / Tomohiro Kato",
     "id": "case-study-of-production-development-of-a-client-side-ml-application-in-a-mobile-browser",
     "track": "b",
     "videoStartsAt": 14193,
-    "permalink": "https://jsconf.jp/2021/talk/case-study-of-production-development-of-a-client-side-ml-application-in-a-mobile-browser"
+    "permalink": "https://jsconf.jp/2021/talk/case-study-of-production-development-of-a-client-side-ml-application-in-a-mobile-browser",
+    "slides": "https://docs.google.com/presentation/d/1fwqrHrEEcNBeLYkiy49r5qGx83UXpX705E31GbyAy3k/edit"
   },
   {
     "title": "6年間成長し続けてきたモノリシックサービスにおけるフロントエンド開発 by カオナビ (Yuuki Minami)",
@@ -188,7 +202,8 @@
     "title": "5分でできる生産性改善 〜ESLint Custom Rule を作ろう〜 by Wantedly (原剛士、小林直樹)",
     "id": "sponsor-wantedly",
     "track": "c",
-    "videoStartsAt": 7240
+    "videoStartsAt": 7240,
+    "slides": "https://speakerdeck.com/chloe463/5fen-dedekirusheng-chan-xing-gai-shan-eslint-custom-rule-wozuo-rou"
   },
   {
     "title": "Open API Specificationを使ったTwilio APIテスト用モッキングサーバーの構築 by Twillio (Daizen Ikehara)",
@@ -206,12 +221,14 @@
     "title": "Helpfeel小咄2選 Web WorkerとMutationObserver by Nota",
     "id": "sponsor-nota",
     "track": "c",
-    "videoStartsAt": 13225
+    "videoStartsAt": 13225,
+    "slides": "https://speakerdeck.com/akiroom/helpfeelxiao-duo-2xuan-web-workertomutationobserver"
   },
   {
     "title": "Next.js でリアーキテクトした話 by リクルート (吉井健文)",
     "id": "sponsor-recruit",
     "track": "c",
-    "videoStartsAt": 15631
+    "videoStartsAt": 15631,
+    "slides": "https://speakerdeck.com/takefumiyoshii/story-of-re-architect-with-nextjs"
   }
 ]

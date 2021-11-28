@@ -15,7 +15,18 @@ export default function Talk({ talk }) {
       </nav>
       <main>
         <h1>{talk.title}</h1>
-        {talk.permalink && <a href={talk.permalink}>トークページ</a>}
+        <ul>
+          {talk.permalink && (
+            <li>
+              <a href={talk.permalink}>トークページ</a>
+            </li>
+          )}
+          {talk.slides && (
+            <li>
+              <a href={talk.slides}>スライド</a>
+            </li>
+          )}
+        </ul>
         <br />
         <iframe
           type="text/html"
