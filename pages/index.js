@@ -28,6 +28,7 @@ export default function Home() {
                 videoId={t.videoId}
                 videoStartsAt={t.videoStartsAt}
                 slides={t.slides}
+                sponsor={t.sponsor}
               />
             );
           })}

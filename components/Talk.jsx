@@ -2,12 +2,23 @@ import React from "react";
 import Link from "next/link";
 import styles from "../styles/Talk.module.css";
 
-export default function Talk({ id, title, videoId, videoStartsAt, slides }) {
+export default function Talk({
+  id,
+  title,
+  videoId,
+  videoStartsAt,
+  slides,
+  sponsor,
+}) {
   return (
     <div className={styles.card}>
       <Link href={`/talks/${encodeURIComponent(id)}`}>
         <a>{title}</a>
       </Link>
+
+      <ul className={styles.badges}>
+        {sponsor && <li className={styles.badge_sponsor}>Sponsor</li>}
+      </ul>
 
       <ul className={styles.resources}>
         {videoId && (

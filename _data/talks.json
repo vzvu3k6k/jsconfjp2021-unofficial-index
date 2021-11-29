@@ -122,7 +122,8 @@
     "title": "Sponsors LT",
     "id": "sponsors-lt",
     "track": "a",
-    "videoStartsAt": 23437
+    "videoStartsAt": 23437,
+    "sponsor": true
   },
   {
     "title": "How projects are born and run in a web browser engine by Kinuko Yasuda",
@@ -196,40 +197,46 @@
     "title": "6年間成長し続けてきたモノリシックサービスにおけるフロントエンド開発 by カオナビ (Yuuki Minami)",
     "id": "sponsor-kaonavi",
     "track": "c",
-    "videoStartsAt": 4828
+    "videoStartsAt": 4828,
+    "sponsor": true
   },
   {
     "title": "5分でできる生産性改善 〜ESLint Custom Rule を作ろう〜 by Wantedly (原剛士、小林直樹)",
     "id": "sponsor-wantedly",
     "track": "c",
     "videoStartsAt": 7240,
-    "slides": "https://speakerdeck.com/chloe463/5fen-dedekirusheng-chan-xing-gai-shan-eslint-custom-rule-wozuo-rou"
+    "slides": "https://speakerdeck.com/chloe463/5fen-dedekirusheng-chan-xing-gai-shan-eslint-custom-rule-wozuo-rou",
+    "sponsor": true
   },
   {
     "title": "Open API Specificationを使ったTwilio APIテスト用モッキングサーバーの構築 by Twillio (Daizen Ikehara)",
     "id": "sponsor-twilio",
     "track": "c",
-    "videoStartsAt": 9004
+    "videoStartsAt": 9004,
+    "sponsor": true
   },
   {
     "title": "STORES 予約を支えるフロントエンドの技術 by Hey (岩本 卓朗)",
     "id": "sponsor-hey",
     "track": "c",
     "videoStartsAt": 11454,
-    "slides": "https://speakerdeck.com/tak_iwamoto/storesyu-yue-wozhi-eruhurontoendoji-shu"
+    "slides": "https://speakerdeck.com/tak_iwamoto/storesyu-yue-wozhi-eruhurontoendoji-shu",
+    "sponsor": true
   },
   {
     "title": "Helpfeel小咄2選 Web WorkerとMutationObserver by Nota",
     "id": "sponsor-nota",
     "track": "c",
     "videoStartsAt": 13225,
-    "slides": "https://speakerdeck.com/akiroom/helpfeelxiao-duo-2xuan-web-workertomutationobserver"
+    "slides": "https://speakerdeck.com/akiroom/helpfeelxiao-duo-2xuan-web-workertomutationobserver",
+    "sponsor": true
   },
   {
     "title": "Next.js でリアーキテクトした話 by リクルート (吉井健文)",
     "id": "sponsor-recruit",
     "track": "c",
     "videoStartsAt": 15631,
-    "slides": "https://speakerdeck.com/takefumiyoshii/story-of-re-architect-with-nextjs"
+    "slides": "https://speakerdeck.com/takefumiyoshii/story-of-re-architect-with-nextjs",
+    "sponsor": true
   }
 ]
