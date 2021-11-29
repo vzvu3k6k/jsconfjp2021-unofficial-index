@@ -1,35 +1,8 @@
 import Head from "next/head";
 import Image from "next/image";
-import Link from "next/link";
+import Talk from "../components/Talk";
 import { getAllTalks } from "../lib/talks";
 import styles from "../styles/Home.module.css";
-
-function Talk({ id, title, videoId, videoStartsAt, slides }) {
-  return (
-    <div className={styles.card}>
-      <Link href={`/talks/${encodeURIComponent(id)}`}>
-        <a>{title}</a>
-      </Link>
-
-      <ul className={styles.resources}>
-        {videoId && (
-          <li>
-            <a
-              href={`https://www.youtube.com/watch?v=${videoId}&t=${videoStartsAt}s`}
-            >
-              Video
-            </a>
-          </li>
-        )}
-        {slides && (
-          <li>
-            <a href={slides}>Slides</a>
-          </li>
-        )}
-      </ul>
-    </div>
-  );
-}
 
 export default function Home() {
   return (
