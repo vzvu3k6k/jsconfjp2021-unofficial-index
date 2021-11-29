@@ -4,12 +4,29 @@ import Link from "next/link";
 import { getAllTalks } from "../lib/talks";
 import styles from "../styles/Home.module.css";
 
-function Talk({ id, title }) {
+function Talk({ id, title, videoId, videoStartsAt, slides }) {
   return (
     <div className={styles.card}>
       <Link href={`/talks/${encodeURIComponent(id)}`}>
         <a>{title}</a>
       </Link>
+
+      <ul className={styles.resources}>
+        {videoId && (
+          <li>
+            <a
+              href={`https://www.youtube.com/watch?v=${videoId}&t=${videoStartsAt}s`}
+            >
+              Video
+            </a>
+          </li>
+        )}
+        {slides && (
+          <li>
+            <a href={slides}>Slides</a>
+          </li>
+        )}
+      </ul>
     </div>
   );
 }
@@ -30,7 +47,16 @@ export default function Home() {
 
         <div className={styles.grid}>
           {getAllTalks().map((t) => {
-            return <Talk key={t.id} id={t.id} title={t.title} />;
+            return (
+              <Talk
+                key={t.id}
+                id={t.id}
+                title={t.title}
+                videoId={t.videoId}
+                videoStartsAt={t.videoStartsAt}
+                slides={t.slides}
+              />
+            );
           })}
         </div>
 
