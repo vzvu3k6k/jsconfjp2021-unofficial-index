@@ -215,7 +215,8 @@
     "title": "STORES 予約を支えるフロントエンドの技術 by Hey (岩本 卓朗)",
     "id": "sponsor-hey",
     "track": "c",
-    "videoStartsAt": 11454
+    "videoStartsAt": 11454,
+    "slides": "https://speakerdeck.com/tak_iwamoto/storesyu-yue-wozhi-eruhurontoendoji-shu"
   },
   {
     "title": "Helpfeel小咄2選 Web WorkerとMutationObserver by Nota",
