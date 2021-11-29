@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import styles from "../styles/Card.module.css";
+import styles from "../styles/Talk.module.css";
 
 export default function Talk({ id, title, videoId, videoStartsAt, slides }) {
   return (
@@ -11,7 +11,7 @@ export default function Talk({ id, title, videoId, videoStartsAt, slides }) {
 
       <ul className={styles.resources}>
         {videoId && (
-          <li>
+          <li className={styles.resource}>
             <a
               href={`https://www.youtube.com/watch?v=${videoId}&t=${videoStartsAt}s`}
             >
@@ -20,7 +20,7 @@ export default function Talk({ id, title, videoId, videoStartsAt, slides }) {
           </li>
         )}
         {slides && (
-          <li>
+          <li className={styles.resource}>
             <a href={slides}>Slides</a>
           </li>
         )}
