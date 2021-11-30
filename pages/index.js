@@ -23,7 +23,6 @@ export default function Home() {
             return (
               <Talk
                 key={t.id}
-                id={t.id}
                 title={t.title}
                 videoId={t.videoId}
                 videoStartsAt={t.videoStartsAt}

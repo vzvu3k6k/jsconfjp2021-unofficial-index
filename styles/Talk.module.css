@@ -16,6 +16,11 @@
   flex-grow: 1;
 }
 
+.card h1 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
 .card a {
   color: inherit;
   text-decoration: none;

@@ -1,9 +1,7 @@
 import React from "react";
-import Link from "next/link";
 import styles from "../styles/Talk.module.css";
 
 export default function Talk({
-  id,
   title,
   videoId,
   videoStartsAt,
@@ -11,10 +9,8 @@ export default function Talk({
   sponsor,
 }) {
   return (
-    <div className={styles.card}>
-      <Link href={`/talks/${encodeURIComponent(id)}`}>
-        <a>{title}</a>
-      </Link>
+    <section className={styles.card}>
+      <h1>{title}</h1>
 
       <ul className={styles.badges}>
         {sponsor && <li className={styles.badge_sponsor}>Sponsor</li>}
@@ -36,6 +32,6 @@ export default function Talk({
           </li>
         )}
       </ul>
-    </div>
+    </section>
   );
 }
