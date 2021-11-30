@@ -119,10 +119,59 @@
     "permalink": "https://jsconf.jp/2021/talk/state-of-css-2021-survey-results"
   },
   {
-    "title": "Sponsors LT",
-    "id": "sponsors-lt",
+    "title": "GraphQL 導入の反省と再挑戦 by Wantedly（izumin5210）",
+    "id": "sponsor-lt-wantedly",
     "track": "a",
     "videoStartsAt": 23437,
+    "sponsor": true
+  },
+  {
+    "title": "カオナビ Sponsor LT by カオナビ（Yuuki Minami）",
+    "id": "sponsor-lt-kaonavi",
+    "track": "a",
+    "videoStartsAt": 23772,
+    "sponsor": true
+  },
+  {
+    "title": "同時多発的に価値創出していく Ubie Discoveryのフロントエンド開発 by Ubie（Kaneno Yoshie / @mpitsu）",
+    "id": "sponsor-lt-ubie",
+    "track": "a",
+    "videoStartsAt": 24019,
+    "sponsor": true
+  },
+  {
+    "title": "スタディサプリにおける TypeScript 活用事例と今後の展望 by リクルート（Takuya Uehara / @indigolain）",
+    "id": "sponsor-lt-recruit",
+    "track": "a",
+    "videoStartsAt": 24367,
+    "sponsor": true
+  },
+  {
+    "title": "STORES 予約を支えるフロントエンドの技術 by Hey（岩本卓朗 / @tak_rockbook）",
+    "id": "sponsor-lt-hey",
+    "track": "a",
+    "videoStartsAt": 24699,
+    "sponsor": true
+  },
+  {
+    "title": "LegalForceのフロント開発 これまでとこれから by LegalForce（安部亨佑）",
+    "id": "sponsor-lt-legalforce",
+    "track": "a",
+    "videoStartsAt": 24951,
+    "sponsor": true
+  },
+  {
+    "title": "Nota Sponsor LT by Nota（秋山博紀 / @akiroom）",
+    "id": "sponsor-lt-nota",
+    "track": "a",
+    "videoStartsAt": 25251,
+    "sponsor": true
+  },
+  {
+    "title": "Twilio Sponsor LT by Twilio（Daizen Ikehara）",
+    "id": "sponsor-lt-twilio",
+    "track": "a",
+    "videoStartsAt": 25523,
     "sponsor": true
   },
   {
