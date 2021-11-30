@@ -24,6 +24,7 @@ export default function Home() {
               <Talk
                 key={t.id}
                 title={t.title}
+                permalink={t.permalink}
                 videoId={t.videoId}
                 videoStartsAt={t.videoStartsAt}
                 slides={t.slides}

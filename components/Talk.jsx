@@ -3,6 +3,7 @@ import styles from "../styles/Talk.module.css";
 
 export default function Talk({
   title,
+  permalink,
   videoId,
   videoStartsAt,
   slides,
@@ -10,7 +11,7 @@ export default function Talk({
 }) {
   return (
     <section className={styles.card}>
-      <h1>{title}</h1>
+      <h1>{permalink ? <a href={permalink}>{title}</a> : title}</h1>
 
       <ul className={styles.badges}>
         {sponsor && <li className={styles.badge_sponsor}>Sponsor</li>}
