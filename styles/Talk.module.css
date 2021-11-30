@@ -11,9 +11,7 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  max-width: 300px;
-  min-width: 200px;
-  flex-grow: 1;
+  flex-basis: 30em;
 }
 
 .card h1 {
