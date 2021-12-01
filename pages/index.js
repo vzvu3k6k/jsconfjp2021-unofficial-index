@@ -31,7 +31,7 @@ export default function Home() {
 
         {categories.map(({ id, label }) => {
           const talks = allTalks.filter((i) => i.category === id);
-          return <Talks key={id} id={id} label={label} talks={talks} />;
+          return <Talks key={id} label={label} talks={talks} />;
         })}
 
         <section className={styles.references}>
