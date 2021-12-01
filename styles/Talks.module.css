@@ -4,6 +4,15 @@
   align-items: center;
 }
 
+.category_label {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: white;
+  padding: 0.5em;
+  text-align: center;
+}
+
 .talks {
   display: flex;
   justify-content: center;

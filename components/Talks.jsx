@@ -5,7 +5,7 @@ import styles from "../styles/Talks.module.css";
 export function Talks({ id, label, talks }) {
   return (
     <section key={id} className={styles.root}>
-      <h1>{label}</h1>
+      <h1 className={styles.category_label}>{label}</h1>
       <div className={styles.talks}>
         {talks.map((t) => {
           return (
