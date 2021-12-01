@@ -1,10 +1,21 @@
 import Head from "next/head";
 import Image from "next/image";
-import Talk from "../components/Talk";
+import { Talks } from "../components/Talks";
 import { getAllTalks } from "../lib/talks";
 import styles from "../styles/Home.module.css";
 
+const categories = [
+  { id: "opening-ending", label: "Opening / Ending" },
+  { id: "keynote", label: "Keynotes" },
+  { id: "regular-talk", label: "Regular Talks" },
+  { id: "lt", label: "Lightning Talks" },
+  { id: "sponsor-talk", label: "Sponsor Talks" },
+  { id: "sponsor-lt", label: "Sponsor Lightning Talks" },
+];
+
 export default function Home() {
+  const allTalks = getAllTalks();
+
   return (
     <div>
       <Head>
@@ -18,21 +29,10 @@ export default function Home() {
           JSConf.jp 2021のトーク情報まとめ（非公式）
         </h1>
 
-        <div className={styles.grid}>
-          {getAllTalks().map((t) => {
-            return (
-              <Talk
-                key={t.id}
-                title={t.title}
-                permalink={t.permalink}
-                videoId={t.videoId}
-                videoStartsAt={t.videoStartsAt}
-                slides={t.slides}
-                sponsor={t.sponsor}
-              />
-            );
-          })}
-        </div>
+        {categories.map(({ id, label }) => {
+          const talks = allTalks.filter((i) => i.category === id);
+          return <Talks key={id} id={id} label={label} talks={talks} />;
+        })}
 
         <section className={styles.references}>
           <h2>References</h2>
