@@ -140,7 +140,8 @@
     "track": "a",
     "category": "sponsor-lt",
     "videoStartsAt": 23437,
-    "sponsor": true
+    "sponsor": true,
+    "slides": "https://speakerdeck.com/izumin5210/jsconf-jp-2021"
   },
   {
     "title": "カオナビ Sponsor LT by カオナビ（Yuuki Minami）",
@@ -156,7 +157,8 @@
     "track": "a",
     "category": "sponsor-lt",
     "videoStartsAt": 24019,
-    "sponsor": true
+    "sponsor": true,
+    "slides": "https://speakerdeck.com/empitsu/20211127-jsconf-jp-ubie-discovery"
   },
   {
     "title": "スタディサプリにおける TypeScript 活用事例と今後の展望 by リクルート（Takuya Uehara / @indigolain）",
@@ -164,7 +166,8 @@
     "track": "a",
     "category": "sponsor-lt",
     "videoStartsAt": 24367,
-    "sponsor": true
+    "sponsor": true,
+    "slides": "https://speakerdeck.com/indigolain/jsconf-jp-2021"
   },
   {
     "title": "STORES 予約を支えるフロントエンドの技術 by Hey（岩本卓朗 / @tak_rockbook）",
@@ -172,7 +175,8 @@
     "track": "a",
     "category": "sponsor-lt",
     "videoStartsAt": 24699,
-    "sponsor": true
+    "sponsor": true,
+    "slides": "https://speakerdeck.com/tak_iwamoto/storesyu-yue-wozhi-eruhurontoendoji-shu"
   },
   {
     "title": "LegalForceのフロント開発 これまでとこれから by LegalForce（安部亨佑）",
