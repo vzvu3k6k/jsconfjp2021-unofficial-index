@@ -13,10 +13,6 @@ export default function Talk({
     <section className={styles.card}>
       <h1>{permalink ? <a href={permalink}>{title}</a> : title}</h1>
 
-      <ul className={styles.badges}>
-        {sponsor && <li className={styles.badge_sponsor}>Sponsor</li>}
-      </ul>
-
       <ul className={styles.resources}>
         {videoId && (
           <li className={styles.resource}>

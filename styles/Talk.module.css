@@ -28,21 +28,6 @@
   color: #0070f3;
 }
 
-.badges {
-  display: flex;
-  padding: 0;
-  list-style: none;
-  justify-content: start;
-  font-size: 70%;
-}
-
-.badge_sponsor {
-  background-color: lemonchiffon;
-  padding: 0.5em 1em;
-  border: 1px solid goldenrod;
-  border-radius: 0.5em;
-}
-
 .resources {
   display: flex;
   padding: 0;
