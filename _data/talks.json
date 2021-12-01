@@ -3,12 +3,14 @@
     "title": "Opening by Yosuke Furukawa",
     "id": "opening",
     "track": "a",
+    "category": "opening-ending",
     "videoStartsAt": 630
   },
   {
     "title": "JavaScript エコシステムを維持する OSS の努力と課題 by Sosuke Suzuki",
     "id": "javascript-maintaining-ecosystem-oss-struggles-and-challenges",
     "track": "a",
+    "category": "keynote",
     "videoStartsAt": 1295,
     "permalink": "https://jsconf.jp/2021/talk/javascript-maintaining-ecosystem-oss-struggles-and-challenges",
     "slides": "https://speakerdeck.com/sosukesuzuki/javascript-ekosisutemuwowei-chi-suru-oss-falsenu-li-toke-ti"
@@ -17,6 +19,7 @@
     "title": "Asynchronicity, the right way: Understanding the basics of asynchronous JavaScript, when to and when not to use it. by Julien Hora",
     "id": "asynchronicity-the-right-way-understanding-the-basics-of-asynchronous-javascript-when-to-and-when-not-to-use-it",
     "track": "a",
+    "category": "regular-talk",
     "videoStartsAt": 3631,
     "permalink": "https://jsconf.jp/2021/talk/asynchronicity-the-right-way-understanding-the-basics-of-asynchronous-javascript-when-to-and-when-not-to-use-it"
   },
@@ -24,6 +27,7 @@
     "title": "The 2021 edition of dealing with files on the Web by Thomas Steiner",
     "id": "the-2021-edition-of-dealing-with-files-on-the-web",
     "track": "a",
+    "category": "regular-talk",
     "videoStartsAt": 5169,
     "permalink": "https://jsconf.jp/2021/talk/the-2021-edition-of-dealing-with-files-on-the-web"
   },
@@ -31,6 +35,7 @@
     "title": "Web ベースのカジュアルゲーム「Block Pong」の実装とビジネス by 紀平 拓男 (Takuo Kihira)",
     "id": "implementation-and-business-of-block-pong-a-web-based-casual-game",
     "track": "a",
+    "category": "regular-talk",
     "videoStartsAt": 7891,
     "permalink": "https://jsconf.jp/2021/talk/implementation-and-business-of-block-pong-a-web-based-casual-game",
     "slides": "https://www.slideshare.net/t-kihira/web-block-pong"
@@ -39,6 +44,7 @@
     "title": "Deno の これまで と これからby 日野澤歓也",
     "id": "the-past-and-future-of-deno",
     "track": "a",
+    "category": "regular-talk",
     "videoStartsAt": 9730,
     "permalink": "https://jsconf.jp/2021/talk/the-past-and-future-of-deno",
     "slides": "https://kt3k.github.io/talk_jsconfjp2021/"
@@ -47,6 +53,7 @@
     "title": "状態管理ライブラリについて by Daishi Kato",
     "id": "about-the-state-management-library",
     "track": "a",
+    "category": "regular-talk",
     "videoStartsAt": 12045,
     "permalink": "https://jsconf.jp/2021/talk/about-the-state-management-library"
   },
@@ -54,6 +61,7 @@
     "title": "Cookie等によるトラッキング規制と代替APIの最新情報まとめ by Antoine Bourlon",
     "id": "summary-of-the-latest-information-on-tracking-restrictions-and-alternative-api-by-cookies-etc",
     "track": "a",
+    "category": "regular-talk",
     "videoStartsAt": 14055,
     "permalink": "https://jsconf.jp/2021/talk/summary-of-the-latest-information-on-tracking-restrictions-and-alternative-api-by-cookies-etc"
   },
@@ -61,6 +69,7 @@
     "title": "アクセシブルなフロントエンド開発のこれまでとこれから by Okuto Oyama",
     "id": "the-past-and-future-of-accessible-front-end-development",
     "track": "a",
+    "category": "regular-talk",
     "videoStartsAt": 16240,
     "permalink": "https://jsconf.jp/2021/talk/the-past-and-future-of-accessible-front-end-development",
     "slides": "https://speakerdeck.com/yamanoku/the-past-and-future-of-accessible-front-end-development"
@@ -69,6 +78,7 @@
     "title": "Machine Learning with JS by Asiya",
     "id": "machine-learning-with-js",
     "track": "a",
+    "category": "lt",
     "videoStartsAt": 18685,
     "permalink": "https://jsconf.jp/2021/talk/machine-learning-with-js"
   },
@@ -76,6 +86,7 @@
     "title": "関数型プログラミングのデザインパターンひとめぐり with Ramda.js by Kazuyuki TAKASE (@Guvalif)",
     "id": "a-tour-of-design-patterns-for-functional-programming-with-ramdajs",
     "track": "a",
+    "category": "lt",
     "videoStartsAt": 19293,
     "permalink": "https://jsconf.jp/2021/talk/a-tour-of-design-patterns-for-functional-programming-with-ramdajs",
     "slides": "https://www.slideshare.net/100005930379759/ss-250735852"
@@ -84,6 +95,7 @@
     "title": "組織フェーズを見据えたWebフロントエンドのアーキテクチャと変遷 by Tetsuya Shibutani",
     "id": "web-front-end-architecture-and-transition-with-an-eye-on-organizational-phases",
     "track": "a",
+    "category": "lt",
     "videoStartsAt": 19915,
     "permalink": "https://jsconf.jp/2021/talk/web-front-end-architecture-and-transition-with-an-eye-on-organizational-phases",
     "slides": "https://speakerdeck.com/shibe23/zu-zhi-huesuwojian-ju-etawebhurontoentofalseakitekutiyatobian-qian"
@@ -92,6 +104,7 @@
     "title": "Bundle Size Optimization in Future JavaScript by Yuku Kotani",
     "id": "bundle-size-optimization-in-future-javascript",
     "track": "a",
+    "category": "lt",
     "videoStartsAt": 20561,
     "permalink": "https://jsconf.jp/2021/talk/bundle-size-optimization-in-future-javascript",
     "slides": "https://speakerdeck.com/yukukotani/bundle-side-optimization-in-future-javascript-jsconf-jp-2021"
@@ -100,6 +113,7 @@
     "title": "加速するEdge Computing by しにゃい/Shinyaigeek",
     "id": "accelerating-edge-computing",
     "track": "a",
+    "category": "lt",
     "videoStartsAt": 21159,
     "permalink": "https://jsconf.jp/2021/talk/accelerating-edge-computing",
     "slides": "https://speakerdeck.com/shinyaigeek/jia-su-suruedge-computing"
@@ -108,6 +122,7 @@
     "title": "Building markdown editor using Rust's parser by Hiroyuki Yagihashi",
     "id": "building-markdown-editor-using-rusts-parser",
     "track": "a",
+    "category": "lt",
     "videoStartsAt": 21786,
     "permalink": "https://jsconf.jp/2021/talk/building-markdown-editor-using-rusts-parser"
   },
@@ -115,6 +130,7 @@
     "title": "State of CSS 2021 Survey Results by Sacha Greif",
     "id": "state-of-css-2021-survey-results",
     "track": "a",
+    "category": "lt",
     "videoStartsAt": 22327,
     "permalink": "https://jsconf.jp/2021/talk/state-of-css-2021-survey-results"
   },
@@ -122,6 +138,7 @@
     "title": "GraphQL 導入の反省と再挑戦 by Wantedly（izumin5210）",
     "id": "sponsor-lt-wantedly",
     "track": "a",
+    "category": "sponsor-lt",
     "videoStartsAt": 23437,
     "sponsor": true
   },
@@ -129,6 +146,7 @@
     "title": "カオナビ Sponsor LT by カオナビ（Yuuki Minami）",
     "id": "sponsor-lt-kaonavi",
     "track": "a",
+    "category": "sponsor-lt",
     "videoStartsAt": 23772,
     "sponsor": true
   },
@@ -136,6 +154,7 @@
     "title": "同時多発的に価値創出していく Ubie Discoveryのフロントエンド開発 by Ubie（Kaneno Yoshie / @mpitsu）",
     "id": "sponsor-lt-ubie",
     "track": "a",
+    "category": "sponsor-lt",
     "videoStartsAt": 24019,
     "sponsor": true
   },
@@ -143,6 +162,7 @@
     "title": "スタディサプリにおける TypeScript 活用事例と今後の展望 by リクルート（Takuya Uehara / @indigolain）",
     "id": "sponsor-lt-recruit",
     "track": "a",
+    "category": "sponsor-lt",
     "videoStartsAt": 24367,
     "sponsor": true
   },
@@ -150,6 +170,7 @@
     "title": "STORES 予約を支えるフロントエンドの技術 by Hey（岩本卓朗 / @tak_rockbook）",
     "id": "sponsor-lt-hey",
     "track": "a",
+    "category": "sponsor-lt",
     "videoStartsAt": 24699,
     "sponsor": true
   },
@@ -157,6 +178,7 @@
     "title": "LegalForceのフロント開発 これまでとこれから by LegalForce（安部亨佑）",
     "id": "sponsor-lt-legalforce",
     "track": "a",
+    "category": "sponsor-lt",
     "videoStartsAt": 24951,
     "sponsor": true
   },
@@ -164,6 +186,7 @@
     "title": "Nota Sponsor LT by Nota（秋山博紀 / @akiroom）",
     "id": "sponsor-lt-nota",
     "track": "a",
+    "category": "sponsor-lt",
     "videoStartsAt": 25251,
     "sponsor": true
   },
@@ -171,6 +194,7 @@
     "title": "Twilio Sponsor LT by Twilio（Daizen Ikehara）",
     "id": "sponsor-lt-twilio",
     "track": "a",
+    "category": "sponsor-lt",
     "videoStartsAt": 25523,
     "sponsor": true
   },
@@ -178,6 +202,7 @@
     "title": "How projects are born and run in a web browser engine by Kinuko Yasuda",
     "id": "how-projects-are-born-and-run-in-a-web-browser-engine",
     "track": "a",
+    "category": "keynote",
     "videoStartsAt": 26135,
     "permalink": "https://jsconf.jp/2021/talk/how-projects-are-born-and-run-in-a-web-browser-engine"
   },
@@ -185,12 +210,14 @@
     "title": "Ending by Yosuke Furukawa",
     "id": "ending",
     "track": "a",
+    "category": "opening-ending",
     "videoStartsAt": 28005
   },
   {
     "title": "Webフロントエンドのリプレースを支えるテストの考え方 by berlysia",
     "id": "testing-approach-to-support-web-front-end-replacement",
     "track": "b",
+    "category": "regular-talk",
     "videoStartsAt": 1122,
     "permalink": "https://jsconf.jp/2021/talk/testing-approach-to-support-web-front-end-replacement",
     "slides": "https://speakerdeck.com/berlysia/jsconf-jp-2021"
@@ -199,6 +226,7 @@
     "title": "Universal DevTools for all environments by Kohei Ueno",
     "id": "universal-devtools-for-all-environments",
     "track": "b",
+    "category": "regular-talk",
     "videoStartsAt": 3374,
     "permalink": "https://jsconf.jp/2021/talk/universal-devtools-for-all-environments",
     "slides": "https://speakerdeck.com/cola119/universal-devtools-for-all-environments"
@@ -207,6 +235,7 @@
     "title": "JavaScript(TypeScript)だけでメディアサイトをインフラから構築する方法 by Hidetaka Okamoto",
     "id": "how-to-build-a-media-site-from-the-infrastructure-up-using-only-java-script-type-script",
     "track": "b",
+    "category": "regular-talk",
     "videoStartsAt": 5789,
     "permalink": "https://jsconf.jp/2021/talk/how-to-build-a-media-site-from-the-infrastructure-up-using-only-java-script-type-script",
     "slides": "https://speakerdeck.com/hideokamoto/jsconf-jp-2021"
@@ -215,6 +244,7 @@
     "title": "AMP キャッシュを超えるシステムを自社ドメインで実現する方法 by 可児 潤也",
     "id": "how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain",
     "track": "b",
+    "category": "regular-talk",
     "videoStartsAt": 7653,
     "permalink": "https://jsconf.jp/2021/talk/how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain",
     "slides": "https://speakerdeck.com/ka2jun8/how-to-implement-a-system-that-goes-beyond-amp-caching-on-your-domain"
@@ -223,6 +253,7 @@
     "title": "Static Site Generator is a Compiler by Yuta Ide",
     "id": "static-site-generator-is-a-compiler",
     "track": "b",
+    "category": "regular-talk",
     "videoStartsAt": 10016,
     "permalink": "https://jsconf.jp/2021/talk/static-site-generator-is-a-compiler"
   },
@@ -230,6 +261,7 @@
     "title": "GraphQL と Prisma から考える次のN年を見据えた技術選定 by 森 久太郎 / qsona",
     "id": "technology-selection-for-the-next-n-years-based-on-graphql-and-prisma",
     "track": "b",
+    "category": "regular-talk",
     "videoStartsAt": 11943,
     "permalink": "https://jsconf.jp/2021/talk/technology-selection-for-the-next-n-years-based-on-graphql-and-prisma",
     "slides": "https://speakerdeck.com/qsona/architecture-decision-for-the-next-n-years-at-studysapuri"
@@ -238,6 +270,7 @@
     "title": "モバイルブラウザにおけるClient-side MLアプリケーションのプロダクション開発事例 by 加藤 倫弘 / Tomohiro Kato",
     "id": "case-study-of-production-development-of-a-client-side-ml-application-in-a-mobile-browser",
     "track": "b",
+    "category": "regular-talk",
     "videoStartsAt": 14193,
     "permalink": "https://jsconf.jp/2021/talk/case-study-of-production-development-of-a-client-side-ml-application-in-a-mobile-browser",
     "slides": "https://docs.google.com/presentation/d/1fwqrHrEEcNBeLYkiy49r5qGx83UXpX705E31GbyAy3k/edit"
@@ -246,6 +279,7 @@
     "title": "6年間成長し続けてきたモノリシックサービスにおけるフロントエンド開発 by カオナビ (Yuuki Minami)",
     "id": "sponsor-kaonavi",
     "track": "c",
+    "category": "sponsor-talk",
     "videoStartsAt": 4828,
     "sponsor": true
   },
@@ -253,6 +287,7 @@
     "title": "5分でできる生産性改善 〜ESLint Custom Rule を作ろう〜 by Wantedly (原剛士、小林直樹)",
     "id": "sponsor-wantedly",
     "track": "c",
+    "category": "sponsor-talk",
     "videoStartsAt": 7240,
     "slides": "https://speakerdeck.com/chloe463/5fen-dedekirusheng-chan-xing-gai-shan-eslint-custom-rule-wozuo-rou",
     "sponsor": true
@@ -261,6 +296,7 @@
     "title": "Open API Specificationを使ったTwilio APIテスト用モッキングサーバーの構築 by Twillio (Daizen Ikehara)",
     "id": "sponsor-twilio",
     "track": "c",
+    "category": "sponsor-talk",
     "videoStartsAt": 9004,
     "slides": "https://www.docswell.com/s/Neri78/5QM1RK-twilio-openapi-mock",
     "sponsor": true
@@ -269,6 +305,7 @@
     "title": "STORES 予約を支えるフロントエンドの技術 by Hey (岩本 卓朗)",
     "id": "sponsor-hey",
     "track": "c",
+    "category": "sponsor-talk",
     "videoStartsAt": 11454,
     "slides": "https://speakerdeck.com/tak_iwamoto/storesyu-yue-wozhi-eruhurontoendoji-shu",
     "sponsor": true
@@ -277,6 +314,7 @@
     "title": "Helpfeel小咄2選 Web WorkerとMutationObserver by Nota",
     "id": "sponsor-nota",
     "track": "c",
+    "category": "sponsor-talk",
     "videoStartsAt": 13225,
     "slides": "https://speakerdeck.com/akiroom/helpfeelxiao-duo-2xuan-web-workertomutationobserver",
     "sponsor": true
@@ -285,6 +323,7 @@
     "title": "Next.js でリアーキテクトした話 by リクルート (吉井健文)",
     "id": "sponsor-recruit",
     "track": "c",
+    "category": "sponsor-talk",
     "videoStartsAt": 15631,
     "slides": "https://speakerdeck.com/takefumiyoshii/story-of-re-architect-with-nextjs",
     "sponsor": true
