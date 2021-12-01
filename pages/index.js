@@ -45,6 +45,14 @@ export default function Home() {
                 JSConf 2021 資料まとめ - 果樹園
               </a>
             </li>
+            <li>
+              <a
+                title="JSConf JP 2021 公開資料・Twitterリンクまとめ"
+                href="https://zenn.dev/h_yoshikawa0724/articles/2021-11-28-jsconf-jp-2021"
+              >
+                JSConf JP 2021 公開資料・Twitterリンクまとめ
+              </a>
+            </li>
           </ul>
         </section>
       </main>
