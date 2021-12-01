@@ -6,11 +6,11 @@ import styles from "../styles/Home.module.css";
 
 const categories = [
   { id: "opening-ending", label: "Opening / Ending" },
-  { id: "keynote", label: "Keynotes" },
-  { id: "regular-talk", label: "Regular Talks" },
-  { id: "lt", label: "Lightning Talks" },
-  { id: "sponsor-talk", label: "Sponsor Talks" },
-  { id: "sponsor-lt", label: "Sponsor Lightning Talks" },
+  { id: "keynote", label: "Keynotes (30min)" },
+  { id: "regular-talk", label: "Regular Talks (30min)" },
+  { id: "lt", label: "Lightning Talks (10min)" },
+  { id: "sponsor-talk", label: "Sponsor Talks (30min)" },
+  { id: "sponsor-lt", label: "Sponsor Lightning Talks (5min)" },
 ];
 
 export default function Home() {
